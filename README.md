@@ -39,7 +39,7 @@ To use the real-time face mask detection system, follow these steps:
 
 1. Launch the application:
    ```
-   python detect_masks.py
+   python app.py
    ```
 
 2. The system will access your webcam and start analyzing the video stream in real-time.
