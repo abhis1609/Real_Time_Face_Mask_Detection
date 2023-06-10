@@ -21,7 +21,7 @@ To install the necessary dependencies, follow these steps:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/real-time-face-mask-detection.git
+   git clone git clone https://github.com/your-username/real-time-face-mask-detection.git
    ```
 
 2. Navigate to the project directory:
